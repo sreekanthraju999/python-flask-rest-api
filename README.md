@@ -8,6 +8,7 @@ Using Python Flask and SQLAlchemy for Building Rest Api's for Web Apps
 $ pip3.7 install virtualenv
 $ virtualenv venv --python=python3.7
 $ source venv/bin/activate          # Activating virtual environment for linux
+$ ./venv/Scripts/activate.bat # for windows
 $ mkdir code                        # Your project folder
 $ cd code
 $ pip Flask
